@@ -1,36 +1,25 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Publications
 
-{% include base_path %}
+Dr Andrew K. Martin has published widely on social cognition, neuropsychology, psychosis, ageing, executive functions, and brain stimulation.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Selected Recent Publications
 
+- Yucel, A., & Martin, A. K. (2026). Baseline cognition and stimulation site shape the effects of tDCS on verbal fluency in older and younger adults. *GeroScience*.
 
+- De Lillo, M., Korpal, A., Ferguson, H., & Martin, A. K. (2026). A causal and dissociable role for the right inferior frontal gyrus in empathy for physical and social pain. *Cognitive, Affective, & Behavioral Neuroscience*.
 
+- Pryke, A., Jayachandran, K., & Martin, A. K. (2025). The causal neural substrates underpinning prospective and retrospective sense of agency. *Cortex*.
+
+- Kokici, L., Chirtop, G., Ferguson, H. J., & Martin, A. K. (2023). Loneliness is associated with a greater self-reference effect in episodic memory when compared against a close friend. *British Journal of Psychology*.
+
+- Martin, A. K., Huang, J., Hunold, A., & Meinzer, M. (2020). The right temporoparietal junction is causally associated with embodied perspective-taking. *The Journal of Neuroscience*.
+
+## Full Publication List
+
+A full publication list is available through the Kent Academic Repository and Dr Martin's academic profiles.
