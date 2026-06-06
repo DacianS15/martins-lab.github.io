@@ -1,19 +1,17 @@
 ---
 title: "People"
 permalink: /people/
+author_profile: true
 ---
 
 ## Principal Investigator
 
-**Dr Andrew Martin**  
-Principal Investigator  
-University of Kent
+### Dr Andrew Martin
 
-## Research Assistants
+Senior Lecturer in Cognitive Neuropsychology and Director of Recruitment and Admissions, Principal Investigator at University of Kent; 
 
-**Dacian Johnson**  
-Research Assistant
+## Research Team
 
-## Collaborators
+### Dacian Stan
 
-Coming soon.
+Research Assistant, BSc Psychology student
