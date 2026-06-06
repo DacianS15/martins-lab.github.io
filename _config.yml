@@ -10,7 +10,7 @@ baseurl                  : "/martins-lab.github.io"
 repository               : "DacianS15/martins-lab.github.io"
 
 author:
-  avatar           : "profile.png"
+avatar: "profile_pic_400x400_inline.webp"
   name             : "Martin Research Lab"
   pronouns         : He/Him
   bio              :
