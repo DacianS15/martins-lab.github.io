@@ -1,32 +1,26 @@
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 site_theme               : "default"
 title                    : "Andrew Martin's Research Lab"
 title_separator          : "-"
 name                     : &name "Martin Research Lab"
-description              : &description
+description              : &description "Psychosis, social cognition, ageing, and mental health research at the University of Kent"
 url                      : https://dacians15.github.io
 baseurl                  : "/martins-lab.github.io"
 repository               : "DacianS15/martins-lab.github.io"
 
 author:
-avatar             : "profile_pic_400x400_inline.webp"
+  avatar           : "profile_pic_400x400_inline.webp"
   name             : "Martin Research Lab"
-  pronouns         : "He/Him"
+  pronouns         : 
   bio              : "Psychosis, social cognition, ageing, and mental health research."
   location         : "Canterbury, UK"
   employer         : "University of Kent"
   uri              :
-  email            : "A.K.Martin@ac.kent.uk"
-  
-  # Academic websites
-googlescholar: "https://scholar.google.com/citations?user=YcjFXKkAAAAJ&hl=en"
+  email            : "A.K.Martin@kent.ac.uk"
 
-
-
-
-  # Social media
-LinkedIn: "https://www.linkedin.com/in/andrew-martin-9bb17298/"
+  googlescholar    : "https://scholar.google.com/citations?user=YcjFXKkAAAAJ&hl=en"
+  linkedin         : "andrew-martin-9bb17298"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
