@@ -29,13 +29,11 @@ Research Areas and Interests
 
 Current Research
 ======
+The lab uses experimental psychology and translational neuroscience to investigate cognition, social neuroscience, mental health, and cognitive enhancement.
 
-Andrew works for both The School of Psychology and Kent Medway Medical School (KMMS). He employs a translational neuroscience and experimental psychology approach to study cognitive enhancement, social neuroscience, and applied cognitive neuroscience. He is also interested in how we interact with technology, including artificial intelligence (AI).
+Our research draws on a range of methods, including cognitive testing, functional and structural neuroimaging, genetic approaches, and non-invasive brain stimulation.
 
-In his research to date, he has employed cognitive testing, functional and structural neuroimaging, genetic endophenotyping, and non-invasive brain stimulation methods, contributing research across a range of diverse fields.
-
-A strong focus of his clinical research is trying to understand cognition
-relevant to mental health with the goal of improving existing treatment options and providing novel treatments. He is also interested in how cognition changes across the healthy lifespan and in disorders of ageing.
+A major focus of our clinical research is understanding cognition in mental health, with the aim of improving existing treatments and developing new approaches. We are also interested in how cognition changes across the lifespan, including healthy ageing and disorders of ageing.
 
 
 People
