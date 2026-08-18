@@ -25,7 +25,6 @@ University of Kent
 **PhD Candidate in Human-Computer Interaction**  
 *Northeastern University London & University of Kent*
 
-![Manal Almugathwi](/images/manal-almugathwi.jpg)
 
 Melika Vafafar is a PhD candidate in Human-Computer Interaction at Northeastern University London and the University of Kent. Her interdisciplinary research brings together human-computer interaction, clinical psychology, and cognitive neuroscience to explore how artificial intelligence can be designed to provide empathetic and ethically responsible support within mental health contexts.
 
@@ -67,7 +66,7 @@ Melika's current research examines the role of conversational and empathic AI in
 **Research Fellow & PhD Candidate in Cognitive Neuropsychology**  
 *Kent and Medway Medical School & University of Kent*
 
-<img src="/martins-lab.github.io/images/manal-almugathwi.jpg" alt="Manal Almugathwi" width="280">
+![Melika Vafafar]({{ site.baseurl }}/images/melika-vafafar.jpg)
 
 Manal Almugathwi is a Research Fellow at Kent and Medway Medical School (KMMS) and a PhD candidate in Cognitive Neuropsychology at the University of Kent. She completed her BSc and MSc in Psychology in Manchester and is a Senior Clinical Psychologist whose clinical experience continues to inform her research into the cognitive and neural mechanisms of social cognition in psychosis and social anxiety.
 
