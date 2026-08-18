@@ -64,6 +64,8 @@ He supervises postgraduate research across social cognition, cognitive neuroscie
 **Research Assistant & BSc Psychology Student**  
 *University of Kent*
 
+![Dacian Stan](../images/dacian-stan.jpg)
+
 Dacian Stan is a Research Assistant in the Martin Research Lab and a BSc Psychology student at the University of Kent, entering his final year of undergraduate study. Following the completion of his professional placement year, he continues to support research within the lab alongside his studies.
 
 His research experience spans cognitive psychology, mental health, and applied clinical research, with a particular interest in understanding cognitive and psychological processes in psychosis and other mental health difficulties. During his placement, Dacian worked across the University of Kent and Kent and Medway NHS and Social Care Partnership Trust (KMPT), gaining experience in both academic research and clinical mental health settings.
