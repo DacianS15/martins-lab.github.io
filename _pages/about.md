@@ -10,9 +10,9 @@ redirect_from:
 Welcome to the Martin Research Lab
 ======
 
-The Martin Research Lab investigates psychosis, early intervention, cognition, and mental health.
+The Martin Research Lab investigates cognition, mental health, psychosis, and early intervention.
 
-Our work brings together clinical psychology, cognitive science, and service evaluation to better understand severe mental health difficulties and improve support for people experiencing or at risk of psychosis.
+Our research combines clinical psychology, cognitive science, neuroscience, and service evaluation to better understand mental health difficulties and improve support for people experiencing, or at risk of, psychosis.
 
 Research Areas and Interests
 ======
@@ -27,7 +27,7 @@ Research Areas and Interests
 - Loneliness
 - Ageing & Pathologies of Ageing
 
-Current Work
+Current Research
 ======
 
 Andrew works for both The School of Psychology and Kent Medway Medical School (KMMS). He employs a translational neuroscience and experimental psychology approach to study cognitive enhancement, social neuroscience, and applied cognitive neuroscience. He is also interested in how we interact with technology, including artificial intelligence (AI).
