@@ -25,6 +25,7 @@ University of Kent
 **PhD Candidate in Human-Computer Interaction**  
 *Northeastern University London & University of Kent*
 
+![Melika Vafafar]({{ site.baseurl }}/images/melika-vafafar.jpg)
 
 Melika Vafafar is a PhD candidate in Human-Computer Interaction at Northeastern University London and the University of Kent. Her interdisciplinary research brings together human-computer interaction, clinical psychology, and cognitive neuroscience to explore how artificial intelligence can be designed to provide empathetic and ethically responsible support within mental health contexts.
 
