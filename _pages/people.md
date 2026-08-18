@@ -67,7 +67,7 @@ Melika's current research examines the role of conversational and empathic AI in
 **Research Fellow & PhD Candidate in Cognitive Neuropsychology**  
 *Kent and Medway Medical School & University of Kent*
 
-![Manal Almugathwi]({{ site.baseurl }}/images/manal-almugathwi.jpg)
+<img src="/martins-lab.github.io/images/manal-almugathwi.jpg" alt="Manal Almugathwi" width="280">
 
 Manal Almugathwi is a Research Fellow at Kent and Medway Medical School (KMMS) and a PhD candidate in Cognitive Neuropsychology at the University of Kent. She completed her BSc and MSc in Psychology in Manchester and is a Senior Clinical Psychologist whose clinical experience continues to inform her research into the cognitive and neural mechanisms of social cognition in psychosis and social anxiety.
 
