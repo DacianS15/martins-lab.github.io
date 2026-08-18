@@ -35,11 +35,12 @@ Our research draws on a range of methods, including cognitive testing, functiona
 
 A major focus of our clinical research is understanding cognition in mental health, with the aim of improving existing treatments and developing new approaches. We are also interested in how cognition changes across the lifespan, including healthy ageing and disorders of ageing.
 
-
 People
 ======
 
-The lab is led by Dr Andrew Martin and includes students, research assistants, collaborators, and clinical partners.
+The Martin Research Lab brings together researchers, students, collaborators, and clinical partners working across psychology, neuroscience, and mental health.
+
+[Meet the team](/martins-lab.github.io/people/)
 
 
 
