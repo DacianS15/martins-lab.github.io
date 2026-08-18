@@ -17,15 +17,15 @@ Our work brings together clinical psychology, cognitive science, and service eva
 Research Areas and Interests
 ======
 
-Perspective Taking and Theory of Mind
-Sense of Agency
-Self-referential effect
-Executive Functions
-Social Neuroscience
-Psychosis
-Mental Health
-Loneliness
-Ageing & Pathologies of Ageing    
+- Perspective Taking and Theory of Mind
+- Sense of Agency
+- Self-referential Effect
+- Executive Functions
+- Social Neuroscience
+- Psychosis
+- Mental Health
+- Loneliness
+- Ageing & Pathologies of Ageing
 
 Current Work
 ======
