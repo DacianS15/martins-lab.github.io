@@ -62,6 +62,39 @@ Melika's current research examines the role of conversational and empathic AI in
 - [Google Scholar](https://scholar.google.com/citations?user=NC2oamUAAAAJ&hl=en)
 - **Email:** [Vafafar.m@northeastern.edu](mailto:Vafafar.m@northeastern.edu)
 
+### Manal Almugathwi
+
+**Research Fellow & PhD Candidate in Cognitive Neuropsychology**  
+*Kent and Medway Medical School & University of Kent*
+
+![Manal Almugathwi]({{ site.baseurl }}/images/manal-almugathwi.jpg)
+
+Manal Almugathwi is a Research Fellow at Kent and Medway Medical School (KMMS) and a PhD candidate in Cognitive Neuropsychology at the University of Kent. She completed her BSc and MSc in Psychology in Manchester and is a Senior Clinical Psychologist whose clinical experience continues to inform her research into the cognitive and neural mechanisms of social cognition in psychosis and social anxiety.
+
+Her research explores the cognitive and neural mechanisms of social cognition in psychosis and social anxiety, with a particular focus on interpretation bias, belief updating, and paranoia. Using immersive virtual reality (VR), functional magnetic resonance imaging (fMRI), non-invasive brain stimulation (tDCS), and experimental cognitive paradigms, she investigates how people interpret ambiguous social information and how these processes shape social functioning.
+
+Manal collaborates with researchers at King's College London to investigate the neural mechanisms of social cognition and paranoia. She was awarded competitive innovation funding through King's College London's Being Digital Creativity and Innovation in Mental Health to support the development of digital mental health research using immersive technologies. Her research has been presented at national and international scientific conferences across the UK and Europe.
+
+### Research Interests
+
+- Social Cognition
+- Psychosis
+- Social Anxiety
+- Paranoia
+- Interpretation Bias
+- Belief Updating
+- Cognitive Neuropsychology
+- Virtual Reality
+- Neuroimaging
+- Non-invasive Brain Stimulation
+
+### Research Methods
+
+- Immersive Virtual Reality (VR)
+- Functional Magnetic Resonance Imaging (fMRI)
+- Transcranial Direct Current Stimulation (tDCS)
+- Experimental Cognitive Paradigms
+
 ### Henry Smedley
 Research Assistant, BSc Psychology
 
