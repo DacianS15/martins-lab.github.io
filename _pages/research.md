@@ -4,7 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
 
 The Martin Research Lab investigates the cognitive, neural, and social mechanisms underlying human behaviour across healthy and clinical populations. Our research ranges from fundamental questions about cognition to the application of cognitive and neuroscientific approaches to mental health and neurotechnology.
 
