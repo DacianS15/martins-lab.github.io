@@ -32,6 +32,8 @@ Together, these themes connect fundamental questions about cognition with applie
 
 Current Research
 ======
+![Research methods used across the Martin Research Lab](../images/research-methods.png)
+*Illustrative overview of research methods and areas relevant to the lab.*
 
 Current research within the lab examines a broad range of topics across cognitive, social, clinical, and technological research.
 
