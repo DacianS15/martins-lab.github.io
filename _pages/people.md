@@ -89,12 +89,9 @@ These experiences have contributed to his developing interests in clinical psych
 
 Dacian continues to support research within the Martin Research Lab alongside his final year of BSc Psychology. His current work includes contributing to ongoing lab projects and the development and maintenance of the Martin Research Lab website.
 
-### Contact
+### Links
 
-- **Email:** [ds827@kent.ac.uk](mailto:ds827@kent.ac.uk)
-
-### Contact
-
+- [LinkedIn](https://www.linkedin.com/in/dacian-s-70bb30398/)
 - **Email:** [ds827@kent.ac.uk](mailto:ds827@kent.ac.uk)
 
 ## Melika Vafafar
@@ -194,3 +191,7 @@ Henry Smedley is a Research Assistant within the Martin Research Lab at the Univ
 ## Research Students
 
 - Ashleigh Francis (MRes)
+
+## Alumni
+
+Details of former lab members will be added soon.
