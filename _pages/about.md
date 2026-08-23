@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-======
+
 Welcome to Andrew Martin's Research Lab!
 
 Martin's Research Lab investigates the cognitive, neural, and social mechanisms underlying human behaviour across healthy and clinical populations.
