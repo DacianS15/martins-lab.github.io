@@ -180,6 +180,47 @@ Henry Smedley is a Research Assistant within the Martin Research Lab at the Univ
 
 - **Email:** [hgs21@kent.ac.uk](mailto:hgs21@kent.ac.uk)
 
+### Amber Pryke
+
+**PhD Candidate in Psychology**  
+*School of Psychology, University of Kent*
+
+![Amber Pryke](../images/amber-pryke.jpg)
+
+Amber Pryke is a PhD candidate in the School of Psychology at the University of Kent. She began working with the A-Scan Lab in 2022, conducting research for her final-year undergraduate project exploring the use of non-invasive neurostimulation techniques to improve cognition.
+
+Following her undergraduate degree, Amber received 1+3 studentship funding from the South-East Network for Social Sciences (SeNSS) to undertake an MSc in Cognitive Psychology and Neuropsychology, followed by her PhD under the supervision of Dr Andrew K. Martin and Professor Sukhi Shergill.
+
+Her doctoral research examines subjective time as a marker of mental wellbeing, with particular interests in depression, loneliness, and women's health. Her work explores how the subjective experience of time relates to cognition, social wellbeing, emotion regulation, and mental health across different contexts.
+
+### Research Interests
+
+- Time Perception
+- Subjective Temporality
+- Cognition
+- Social Cognition
+- Mental Health
+- Depression
+- Loneliness
+- Menstrual Cycle
+- Women's Health
+
+### Current Research
+
+Amber's current research examines subjective experiences of time and their relationship with cognition, mental health, and social wellbeing. Her current projects include:
+
+- *Depressive Symptoms and Executive Function in Shaping the Phenomenology of Mental Time Travel and Counterfactual Thinking*
+- *Fluctuations in Subjective Time and Social Wellbeing Across the Menstrual Cycle*
+- *Expectations of Future Selves During Students' Transition to Higher Education: The Role of Loneliness and Social Support*
+- *The Mediating Role of Maladaptive Emotion Regulation Strategies in the Relationship Between Sleep and Suicidal Mental Imagery*
+- *Examining a Motivational Model of Time Perception in Depression*
+
+### Links & Contact
+
+- [LinkedIn](https://www.linkedin.com/in/amber-pryke)
+- [Google Scholar](https://scholar.google.com/citations?user=cDn0nzsAAAAJ&hl=en)
+- **Email:** [ap890@kent.ac.uk](mailto:ap890@kent.ac.uk)
+
 ## Current PhD Students
 
 - Abdulbaki Yucel
