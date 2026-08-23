@@ -2,6 +2,7 @@
 title: "Publications"
 permalink: /publications-test/
 author_profile: true
+layout: single
 ---
 
 <p>
