@@ -9,7 +9,7 @@ main:
     url: /people/
 
   - title: "Publications"
-    url: /publications-test/
+    url: "https://dacians15.github.io/martins-lab.github.io/publications-test/"
 
   - title: "Opportunities"
     url: /opportunities/
