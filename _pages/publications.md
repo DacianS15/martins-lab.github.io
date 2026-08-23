@@ -4,8 +4,10 @@ permalink: /publications-test/
 author_profile: true
 ---
 
-<h1>Publications</h1>
-
+<p>
+Dr Andrew K. Martin has published research across social cognition, cognitive neuroscience,
+neuropsychology, psychosis, ageing, non-invasive brain stimulation, and related areas.
+</p>
 <p>
 Dr Andrew K. Martin has published research across social cognition, cognitive neuroscience,
 neuropsychology, psychosis, ageing, non-invasive brain stimulation, and related areas.
