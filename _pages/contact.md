@@ -4,7 +4,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact
 
 For research enquiries, collaboration, or student supervision, please contact Dr Andrew K. Martin through the University of Kent School of Psychology or email at "A.K.Martin@kent.ac.uk".
 
