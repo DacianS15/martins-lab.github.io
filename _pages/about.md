@@ -1,16 +1,17 @@
 ---
 permalink: /
-title: "Martin Research Lab"
+title: "Martin's Research Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to the Martin Research Lab
-======
 
-The Martin Research Lab investigates the cognitive, neural, and social mechanisms underlying human behaviour across healthy and clinical populations.
+======
+Welcome to Andrew Martin's Research Lab!
+
+Martin's Research Lab investigates the cognitive, neural, and social mechanisms underlying human behaviour across healthy and clinical populations.
 
 Our interdisciplinary research brings together experimental psychology, cognitive neuroscience, neuropsychology, clinical research, and emerging technologies to understand how people think, interact, and function across the lifespan.
 
@@ -32,7 +33,7 @@ Together, these themes connect fundamental questions about cognition with applie
 
 Current Research
 ======
-![Research methods used across the Martin Research Lab](../images/research-methods.png)
+![Research methods used across Martin's Research Lab](../images/research-methods.png)
 *Illustrative overview of research methods and areas relevant to the lab.*
 
 Current research within the lab examines a broad range of topics across cognitive, social, clinical, and technological research.
@@ -55,7 +56,7 @@ Our research uses a range of experimental, neuroscientific, clinical, and quanti
 People
 ======
 
-The Martin Research Lab brings together researchers and students working across psychology, neuroscience, mental health, and human-computer interaction.
+Martin's Research Lab brings together researchers and students working across psychology, neuroscience, mental health, and human-computer interaction.
 
 The lab is led by **Dr Andrew K. Martin**, Senior Lecturer in Cognitive Neuropsychology at the University of Kent.
 
@@ -64,7 +65,7 @@ The lab is led by **Dr Andrew K. Martin**, Senior Lecturer in Cognitive Neuropsy
 Affiliations
 ======
 
-The Martin Research Lab is based at the **University of Kent**, with research spanning the **School of Psychology** and **Kent and Medway Medical School (KMMS)**.
+Martin's Research Lab is based at the **University of Kent**, with research spanning the **School of Psychology** and **Kent and Medway Medical School (KMMS)**.
 
 The lab also collaborates with researchers, clinicians, and organisations across academic and applied settings.
 
