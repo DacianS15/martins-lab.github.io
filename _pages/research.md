@@ -4,10 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-<h1>Research</h1>
 
 <p>
-The Martin Research Lab investigates the cognitive, neural, and social mechanisms underlying human behaviour across healthy and clinical populations.
+Martin's Research Lab investigates the cognitive, neural, and social mechanisms underlying human behaviour across healthy and clinical populations.
 </p>
 
 <p>
@@ -242,7 +241,7 @@ Clinical and neuropsychological research also examines how cognition changes acr
 <h3>Neurotechnology</h3>
 
 <p>
-The Martin Research Lab uses neurotechnology to investigate the relationship between brain function and cognition and to explore whether cognitive processes can be experimentally measured or modulated.
+Martin's Research Lab uses neurotechnology to investigate the relationship between brain function and cognition and to explore whether cognitive processes can be experimentally measured or modulated.
 </p>
 
 <p>Methods and technologies used across the lab include:</p>
@@ -320,7 +319,7 @@ The six themes are closely connected. Research into fundamental cognition can in
 <h2>Research Philosophy</h2>
 
 <p>
-The Martin Research Lab takes an interdisciplinary approach to understanding human cognition and behaviour.
+Martin's Research Lab takes an interdisciplinary approach to understanding human cognition and behaviour.
 </p>
 
 <p>
