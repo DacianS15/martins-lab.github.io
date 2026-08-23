@@ -93,7 +93,7 @@ Dacian continues to support research within the Martin Research Lab alongside hi
 
 - [LinkedIn](https://www.linkedin.com/in/dacian-s-70bb30398/)
 - **Email:** [ds827@kent.ac.uk](mailto:ds827@kent.ac.uk)
-
+  
 ### Melika Vafafar
 
 **PhD Candidate in Human-Computer Interaction**  
